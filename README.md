@@ -24,24 +24,13 @@ using Stable Diffusion and Gradio, deployed on Google Colab.
 5. Open the Gradio public URL
 
 ## 📎 Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-image-video-generator/blob/main/AI_Image_Video_Generator.ipynb)
+[![Open In Colab][[(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-image-video-generator/blob/main/AI_Image_Video_Generator.ipynb)](https://colab.research.google.com/drive/1gWlec1mrXtnxgoMxsc4ZjTQ2iY2fqRpg?usp=sharing)](https://colab.research.google.com/drive/1gWlec1mrXtnxgoMxsc4ZjTQ2iY2fqRpg?usp=sharing)
 
 ## 📸 Sample Output
 *(Add your generated image screenshots here)*
 
 ## 👨‍💻 Author
-- BTech 3rd Year | AI/ML Project
-```
-
-> Replace `YOUR_USERNAME` with your actual GitHub username in the Colab badge link.
-
----
-
-## 🔗 Step 5 — Add "Open in Colab" Button (Cool Touch!)
-
-This lets anyone open and run your project directly — that badge in the README does this automatically once you replace `YOUR_USERNAME`.
-
----
+- Anushka Jain | BTech 3rd Year | AI/ML Project
 
 ## 📌 Final Folder Structure on GitHub
 ```
